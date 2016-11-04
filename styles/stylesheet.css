@@ -11,12 +11,17 @@ h1 {
   font-weight: bold;
   color:SkyBlue; /* blue */
   text-align: center;
-
+  border: 3px solid ##888888;
+  border-radius: 2em;
+  box-shadow: 10px 10px 5px #888888;
+  background-color: #FFFFFF;
 }
 
 h2{
-  font-size: 30px;
+  font-size: 40px;
   color: SkyBlue;
+  
+
 }
 
 P{
@@ -42,4 +47,6 @@ a{
 }
 h3{
   color: skyblue;
+
+
 }
