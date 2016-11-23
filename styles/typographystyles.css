@@ -111,6 +111,19 @@ font-size: 1.6em;
 
 /* Change this style */
 .indent {
+  font-size: 0.7em;
+  margin-left: 35%;
+
+}
 
 
+
+#name{
+  font-size: 2.0em;
+  margin-left: 20%
+}
+
+#lewis {
+  font-size: 1.2em;
+  margin-left: 35%;
 }
