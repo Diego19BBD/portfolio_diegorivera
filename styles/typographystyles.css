@@ -108,11 +108,15 @@ font-size: 1.6em;
 
 
 }
+.indent{
+  font-size:0.7em;
+  margin-left: 40%;
+}
 
 /* Change this style */
-.indent {
+.indentdetails{
   font-size: 0.7em;
-  margin-left: 35%;
+  margin-left: 40%;
 
 }
 
@@ -125,5 +129,15 @@ font-size: 1.6em;
 
 #lewis {
   font-size: 1.2em;
-  margin-left: 35%;
+  margin-left: 40%;
+}
+
+.Shattuck{
+  font-size: 1.0em;
+    margin-left: 40%;
+
+}
+#Paul{
+  line-height: 0.7;
+  font-size: 1.65em;
 }
