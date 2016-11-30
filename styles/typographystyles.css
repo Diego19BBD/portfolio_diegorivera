@@ -157,7 +157,7 @@ font-size: 1.6em;
 
 #weight2 {
   /* Change the font-weight property to give it a light-weight */
-  font-weight:300; 
+  font-weight:300;
 }
 
 #weight3 {
@@ -173,4 +173,49 @@ font-size: 1.6em;
 #weight5 {
   /* Change the font-weight property to give it a ultra-bold-weight */
   font-weight:900;
+}
+
+/*
+  POSTER TYPOGRAPHY ASSIGNMENT CRITERIA:
+  * Use two different typefaces (a serif and a sans-serif)
+  * Use at least three different font-sizes
+  * Use a color that contrasts with the background image
+      * Recommended to use the text-shadow property to increase contrast
+  * Use a hierarchy that emphasizes the most important words
+      * Font size, font weight, logical grouping, orientation
+  */
+
+#grandCanyon {
+  background-image: url(../images/grand_canyon.jpg);
+  background-size: cover;
+  background-position: center center;
+  height: 500px;
+  width: 800px;
+  margin: 0 auto;
+font-size: 1.0em
+
+
+}
+
+#gc{
+  font-family: serif;
+  color: chartreuse;
+  line-height: 0.7;
+  border: 3px solid beige;
+  border-radius: 2em;
+  box-shadow: 10px 10px 5px #888888;
+  background-color: #FFFFFF;
+}
+
+#miles{
+font-family: sans-serif;
+color: chartreuse;
+shadow: black;
+}
+
+#plan{
+  font-family: cursive;
+  color: chartreuse;
+  font-style: oblique;
+
 }
