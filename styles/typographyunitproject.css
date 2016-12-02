@@ -1,0 +1,55 @@
+body{
+background-color: #3ed8d8;
+
+
+}
+p{
+  font-size: 1.5em;
+  font-weight: bold;
+}
+h1 {
+  font-size: 3.0em;
+  font-weight: bold;
+  color:#adf7f7;
+  text-align: center;
+  border: 3px solid #1e5959;
+  border-radius: 2em;
+  box-shadow: 10px 10px 5px #72dbdb;
+  background-color: #2c7c7c;
+
+
+}
+
+h3{
+  font-size: 3.0em;
+  font-weight: bold;
+  color:#4e5b5b;
+  font-family: forte;
+  line-height: 0.7;
+
+}
+h4{
+  font-size: 3.0em;
+  font-weight: bold;
+  color:#d63737
+;
+  line-height: 0.8;
+  font-family: goudy stout;
+
+}
+h5{
+  font-size: 3.0em;
+  font-weight: bold;
+  color:green
+;
+  font-family: castellar;
+  line-height: 0.4;
+}
+h6{
+  font-size: 3.0em;
+  font-weight: bold;
+  color:#583ad1
+;
+  font-family: aharoni;
+  line-height:0.6;
+}
