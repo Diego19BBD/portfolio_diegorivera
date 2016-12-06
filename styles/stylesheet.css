@@ -1,7 +1,7 @@
 body {
   font-size: 35px;
   font-weight: normal;
-  font-family: "Cooper Std Black", sans-serif;
+  font-family: Rockwell;
   color: #000000; /* black */
   text-align: left;
   background-color: #919E9D;
@@ -27,24 +27,24 @@ h2{
 
 p{
   font-size:18px;
-  font-family:"Cooper Std Black";
+  font-family:Rockwell;
   color: White;
 }
 ol{
   font-size: 25px;
-  font-family: "Cooper Std Black";
+  font-family: Rockwell;
   color:SkyBlue;
 }
 
 ul{
   font-size: 20px;
-  font-family: "Cooper Std Black";
+  font-family: Rockwell;
   color: White;
 }
 
 a{
   color:white;
-  font-family: "Cooper Std Black";
+  font-family: Rockwell;
 }
 h3{
   color: skyblue;
