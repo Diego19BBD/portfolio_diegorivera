@@ -1,50 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700|Oswald|Roboto');
+
 body{
-font-family: fantasy;
-  background-color: #DBE9EE;
-  color: #204B57;
+font-family: Roboto;
+  background-color: #eee;
+  color: #444;
+  line-height: 1.5 normal;
+  font-size: 16px;
+  width: 80%;
+  margin: 0 auto;
+}
+li a{
+  font-family: Oswald;
+  color: #e81c4f;
+  font-size: 1.1em;
+  letter-spacing: 2px;
+  text-decoration: none;
 }
 h1{
-  font-family: fantasy;
-  color: #204B57;
+  font-family: Oswald;
   text-align: center;
-  border: 3px solid #197BBD;
-  border-radius: 3em;
-  box-shadow: 10px 10px 5px #888888;
-  background-color: #C0D6DF;
-font-size: 2.5em;
-border-style: dotted;
-
-
 }
 h2{
-  font-size: 2.0em;
-  text-decoration: underline;
+  font-family: Merriweather;
+  text-align: center;
+  background-color: #e81c4f;
+  color: white;
+  padding: 0;
+  font-size: 1.3em;
+}
+#aboutMephoto{
 
-}
-h3{
-    font-size: 2.0em;
-    text-decoration: underline;
-}
-h4{
-    font-size: 2.0em;
-    text-decoration: underline;
-}
-h5{
-    font-size: 2.0em;
-    text-decoration: underline;
-}
-h6{
-    font-size: 2.0em;
-    text-decoration: underline;
-}
-nav{
-color: #204B57;
 
-}
-li{
-  color: #204B57;
-}
-ul{
-  color:#4F6D7A;
-  
 }
