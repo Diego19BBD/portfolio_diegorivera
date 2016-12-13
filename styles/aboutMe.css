@@ -33,6 +33,7 @@ margin: 0 auto;
 border-radius: 10px;
 max-width: 500px;
 display: block;
+clear: both;
 
 }
 .bioDetails{
@@ -48,4 +49,9 @@ div ul li{
 }
 div ul{
   padding:10px;
+}
+nav ul li{
+  float: left;
+  width: 12%;
+  margin-bottom: 30px;
 }
