@@ -5,6 +5,7 @@ body {
   color: #000000; /* black */
   text-align: left;
   background-color: #919E9D;
+
 }
 h1 {
   font-size: 1.8em;
@@ -35,6 +36,7 @@ ol{
   font-family: Rockwell;
   color:SkyBlue;
 }
+
 
 ul{
   font-size: 20px;

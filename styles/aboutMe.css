@@ -55,3 +55,6 @@ nav ul li{
   width: 12%;
   margin-bottom: 30px;
 }
+ul{
+  list-style: none;
+}
